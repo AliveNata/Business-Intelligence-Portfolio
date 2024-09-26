@@ -1,0 +1,801 @@
+[{
+  "unique_key": "32b3896a0eb744145dd5a7c3f5e79d61",
+  "venture": "ID",
+  "data_date": "2020-06-01",
+  "daily_phasing": "0.037",
+  "cumulative_phasing": "0.037",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "b7734aff04b12e38fd24916b5e3b66a9",
+  "venture": "ID",
+  "data_date": "2020-06-02",
+  "daily_phasing": "0.038",
+  "cumulative_phasing": "0.075",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "8062bc4a92032332b60eb6d4f1767ffb",
+  "venture": "ID",
+  "data_date": "2020-06-03",
+  "daily_phasing": "0.0362",
+  "cumulative_phasing": "0.1112",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "51c062e3d2060cdfe584650a98473068",
+  "venture": "ID",
+  "data_date": "2020-06-04",
+  "daily_phasing": "0.0382",
+  "cumulative_phasing": "0.1494",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "fe3042278c3ea789c5176b57488d2ac1",
+  "venture": "ID",
+  "data_date": "2020-06-05",
+  "daily_phasing": "0.0363",
+  "cumulative_phasing": "0.1857",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "ecc36fb1f07f0f8c299bd4c279597457",
+  "venture": "ID",
+  "data_date": "2020-06-06",
+  "daily_phasing": "0.046",
+  "cumulative_phasing": "0.2317",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "67d3eb5b6a8b832c2cea4a9f1ab739b0",
+  "venture": "ID",
+  "data_date": "2020-06-07",
+  "daily_phasing": "0.025",
+  "cumulative_phasing": "0.2567",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "e6b39916af722489c6c9c44785986b61",
+  "venture": "ID",
+  "data_date": "2020-06-08",
+  "daily_phasing": "0.035",
+  "cumulative_phasing": "0.2917",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "7c7f22573c49423007b9c0fb27fe73b0",
+  "venture": "ID",
+  "data_date": "2020-06-09",
+  "daily_phasing": "0.0323",
+  "cumulative_phasing": "0.324",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "a748c758eb5e94b28f5136cf1746570d",
+  "venture": "ID",
+  "data_date": "2020-06-10",
+  "daily_phasing": "0.0331",
+  "cumulative_phasing": "0.3571",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "b88b61138968b554c5793628992c0028",
+  "venture": "ID",
+  "data_date": "2020-06-11",
+  "daily_phasing": "0.027",
+  "cumulative_phasing": "0.3841",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "e198b924767a98950e76caf46edd47cc",
+  "venture": "ID",
+  "data_date": "2020-06-12",
+  "daily_phasing": "0.0265",
+  "cumulative_phasing": "0.4106",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "44b7124321774c62c256b18d63549c08",
+  "venture": "ID",
+  "data_date": "2020-06-13",
+  "daily_phasing": "0.025",
+  "cumulative_phasing": "0.4356",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "e4ec10dc527ed5e43dc3f69ee373786a",
+  "venture": "ID",
+  "data_date": "2020-06-14",
+  "daily_phasing": "0.02",
+  "cumulative_phasing": "0.4556",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "5a564df229ae1410ac89c81f0339b0fe",
+  "venture": "ID",
+  "data_date": "2020-06-15",
+  "daily_phasing": "0.035",
+  "cumulative_phasing": "0.4906",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "201a8e781ad95c6ab56dca4d3e8bbe4e",
+  "venture": "ID",
+  "data_date": "2020-06-16",
+  "daily_phasing": "0.0301",
+  "cumulative_phasing": "0.5207",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "eed63ae68476aac768fa17ef81cffbc5",
+  "venture": "ID",
+  "data_date": "2020-06-17",
+  "daily_phasing": "0.0293",
+  "cumulative_phasing": "0.55",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "bd49bd3c2b568bb7ff8264ad5c29ef41",
+  "venture": "ID",
+  "data_date": "2020-06-18",
+  "daily_phasing": "0.032",
+  "cumulative_phasing": "0.582",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "cd200a6ac2a198072ab2e4eabeb107c9",
+  "venture": "ID",
+  "data_date": "2020-06-19",
+  "daily_phasing": "0.032",
+  "cumulative_phasing": "0.614",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "c21b69d6cb1f227417e190515078b368",
+  "venture": "ID",
+  "data_date": "2020-06-20",
+  "daily_phasing": "0.0222",
+  "cumulative_phasing": "0.6362",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "ea0fb83b406e2891d424df4df8bb1204",
+  "venture": "ID",
+  "data_date": "2020-06-21",
+  "daily_phasing": "0.0192",
+  "cumulative_phasing": "0.6554",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "c1ae68b5ad46e8beaaa949116b956ef5",
+  "venture": "ID",
+  "data_date": "2020-06-22",
+  "daily_phasing": "0.029",
+  "cumulative_phasing": "0.6844",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "bb86b7183420c9e435912f2c6a37c58a",
+  "venture": "ID",
+  "data_date": "2020-06-23",
+  "daily_phasing": "0.0283",
+  "cumulative_phasing": "0.7127",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "b2407c08048ada1ad8ac196df3256e87",
+  "venture": "ID",
+  "data_date": "2020-06-24",
+  "daily_phasing": "0.028",
+  "cumulative_phasing": "0.7407",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "e7a84fd0ccfee5ff76e39323c580ca38",
+  "venture": "ID",
+  "data_date": "2020-06-25",
+  "daily_phasing": "0.0542",
+  "cumulative_phasing": "0.7949",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "da936f6ad84114124386dd58ac22ee53",
+  "venture": "ID",
+  "data_date": "2020-06-26",
+  "daily_phasing": "0.0522",
+  "cumulative_phasing": "0.8471",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "3ce5f3d97648116ebd4986bbe6f48e73",
+  "venture": "ID",
+  "data_date": "2020-06-27",
+  "daily_phasing": "0.0343",
+  "cumulative_phasing": "0.8814",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "6d019e02fa68ee99d17c1374ad122631",
+  "venture": "ID",
+  "data_date": "2020-06-28",
+  "daily_phasing": "0.0322",
+  "cumulative_phasing": "0.9136",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "6f7b3d53efe0e2855de768bfaaf905e2",
+  "venture": "ID",
+  "data_date": "2020-06-29",
+  "daily_phasing": "0.0442",
+  "cumulative_phasing": "0.9578",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "a91948bb79c167640e3edd87f960578e",
+  "venture": "ID",
+  "data_date": "2020-06-30",
+  "daily_phasing": "0.0422",
+  "cumulative_phasing": "1",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "4c0ce3b03bdc7a829698b087c02a1bc9",
+  "venture": "ID",
+  "data_date": "2020-07-01",
+  "daily_phasing": "0.0244",
+  "cumulative_phasing": "0.0244",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "fee21e6771a1badac8f6403060fa9b29",
+  "venture": "ID",
+  "data_date": "2020-07-02",
+  "daily_phasing": "0.0238",
+  "cumulative_phasing": "0.0482",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "acb28c2eb350316c00552b0349873331",
+  "venture": "ID",
+  "data_date": "2020-07-03",
+  "daily_phasing": "0.0321",
+  "cumulative_phasing": "0.0803",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "45b934941783b0920ec02e4ee1cf5d28",
+  "venture": "ID",
+  "data_date": "2020-07-04",
+  "daily_phasing": "0.0246",
+  "cumulative_phasing": "0.1049",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "8428bc6713fcfe84b7d7b1aa6540e4fb",
+  "venture": "ID",
+  "data_date": "2020-07-05",
+  "daily_phasing": "0.0219",
+  "cumulative_phasing": "0.1268",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "6b46093e1f50d2bc1a9e970936bbf685",
+  "venture": "ID",
+  "data_date": "2020-07-06",
+  "daily_phasing": "0.028",
+  "cumulative_phasing": "0.1548",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "8d2c1cd24c23a5841e3fa2b2b729ca16",
+  "venture": "ID",
+  "data_date": "2020-07-07",
+  "daily_phasing": "0.13",
+  "cumulative_phasing": "0.2848",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "b5495f4a37231e0c29d1a5fa06f35e96",
+  "venture": "ID",
+  "data_date": "2020-07-08",
+  "daily_phasing": "0.1",
+  "cumulative_phasing": "0.3848",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "1c166e3c58823a1a38cf36951826528a",
+  "venture": "ID",
+  "data_date": "2020-07-09",
+  "daily_phasing": "0.06",
+  "cumulative_phasing": "0.4448",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "b07206c1e2b3520647b8a9f1aa0dba2c",
+  "venture": "ID",
+  "data_date": "2020-07-10",
+  "daily_phasing": "0.03",
+  "cumulative_phasing": "0.4748",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "44e9bec586253d57767f9a6ce707dd66",
+  "venture": "ID",
+  "data_date": "2020-07-11",
+  "daily_phasing": "0.022",
+  "cumulative_phasing": "0.4968",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "4a0a73a31da64d052203639e80c7b0b2",
+  "venture": "ID",
+  "data_date": "2020-07-12",
+  "daily_phasing": "0.022",
+  "cumulative_phasing": "0.5188",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "81c82346207bb2a185d050f22c54cd5e",
+  "venture": "ID",
+  "data_date": "2020-07-13",
+  "daily_phasing": "0.018",
+  "cumulative_phasing": "0.5368",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "e5f1df8fff889395d3b942bcfda957a0",
+  "venture": "ID",
+  "data_date": "2020-07-14",
+  "daily_phasing": "0.016",
+  "cumulative_phasing": "0.5528",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "e7d2ff3019a36be4edf88b355dc53da2",
+  "venture": "ID",
+  "data_date": "2020-07-15",
+  "daily_phasing": "0.018",
+  "cumulative_phasing": "0.5708",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "728082192ce4c16bc3fd6708ff043f81",
+  "venture": "ID",
+  "data_date": "2020-07-16",
+  "daily_phasing": "0.018",
+  "cumulative_phasing": "0.5888",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "7b72f45a7703aba08828c24b07962e48",
+  "venture": "ID",
+  "data_date": "2020-07-17",
+  "daily_phasing": "0.02",
+  "cumulative_phasing": "0.6088",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "8079a821dc979a071eec298071e2cdc7",
+  "venture": "ID",
+  "data_date": "2020-07-18",
+  "daily_phasing": "0.017",
+  "cumulative_phasing": "0.6258",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "726f59039f9f06a4e95a3152ba9fbf7e",
+  "venture": "ID",
+  "data_date": "2020-07-19",
+  "daily_phasing": "0.016",
+  "cumulative_phasing": "0.6418",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "a375312257c69c92d616d8fc30545e85",
+  "venture": "ID",
+  "data_date": "2020-07-20",
+  "daily_phasing": "0.018",
+  "cumulative_phasing": "0.6598",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "ad5f828f9a2d379b418aa4b83d8aca27",
+  "venture": "ID",
+  "data_date": "2020-07-21",
+  "daily_phasing": "0.062",
+  "cumulative_phasing": "0.7218",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "d9d99f577d42152a307a33b58d0dfbf4",
+  "venture": "ID",
+  "data_date": "2020-07-22",
+  "daily_phasing": "0.025",
+  "cumulative_phasing": "0.7468",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "2b71c0c5adc1832a148114aef97488d1",
+  "venture": "ID",
+  "data_date": "2020-07-23",
+  "daily_phasing": "0.013",
+  "cumulative_phasing": "0.7598",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "ad9b1d89f596ba61787c554864b36621",
+  "venture": "ID",
+  "data_date": "2020-07-24",
+  "daily_phasing": "0.012",
+  "cumulative_phasing": "0.7718",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "1a433bbff9e15bc6ade7b49bda717b4a",
+  "venture": "ID",
+  "data_date": "2020-07-25",
+  "daily_phasing": "0.0392",
+  "cumulative_phasing": "0.811",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "54dcd12fd59ebe7dcebd5117a4d7fec7",
+  "venture": "ID",
+  "data_date": "2020-07-26",
+  "daily_phasing": "0.027",
+  "cumulative_phasing": "0.838",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "2f5a98f5a114bbb0a14ef52eec2a3f31",
+  "venture": "ID",
+  "data_date": "2020-07-27",
+  "daily_phasing": "0.04",
+  "cumulative_phasing": "0.878",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "17ea170d31575dc4c0af6086c21b5c69",
+  "venture": "ID",
+  "data_date": "2020-07-28",
+  "daily_phasing": "0.032",
+  "cumulative_phasing": "0.91",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "a6b2d928cdfc728c1e13aea1d9fa4271",
+  "venture": "ID",
+  "data_date": "2020-07-29",
+  "daily_phasing": "0.03",
+  "cumulative_phasing": "0.94",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "b2d1dff7924e63e2c4d5ae22bdcfa8d6",
+  "venture": "ID",
+  "data_date": "2020-07-30",
+  "daily_phasing": "0.03",
+  "cumulative_phasing": "0.97",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "303a9ee4f4ceaed0b852fa1ccb547caf",
+  "venture": "ID",
+  "data_date": "2020-07-31",
+  "daily_phasing": "0.03",
+  "cumulative_phasing": "1",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "abbe043dce90649b57e518969fbd1fa1",
+  "venture": "ID",
+  "data_date": "2020-08-01",
+  "daily_phasing": "0.011952",
+  "cumulative_phasing": "0.011952",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "94bdb39add53b3f88c568d310833b672",
+  "venture": "ID",
+  "data_date": "2020-08-02",
+  "daily_phasing": "0.014355",
+  "cumulative_phasing": "0.026308",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "aef2d4dbb8eea035e24c7e79be7d9481",
+  "venture": "ID",
+  "data_date": "2020-08-03",
+  "daily_phasing": "0.019008",
+  "cumulative_phasing": "0.045315",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "02b35240fd98a344af907d28669f8a48",
+  "venture": "ID",
+  "data_date": "2020-08-04",
+  "daily_phasing": "0.019375",
+  "cumulative_phasing": "0.06469",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "d1a70c24517057b1e068164a2b78add5",
+  "venture": "ID",
+  "data_date": "2020-08-05",
+  "daily_phasing": "0.01414",
+  "cumulative_phasing": "0.07883",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "2aca671a9518c01d5e2c3eee7c6b8063",
+  "venture": "ID",
+  "data_date": "2020-08-06",
+  "daily_phasing": "0.015079",
+  "cumulative_phasing": "0.093909",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "60e9521ceefd5cc4fa36f8909649adb9",
+  "venture": "ID",
+  "data_date": "2020-08-07",
+  "daily_phasing": "0.019251",
+  "cumulative_phasing": "0.11316",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "dfa789911dd2f31eda80a56ecb80b6f3",
+  "venture": "ID",
+  "data_date": "2020-08-08",
+  "daily_phasing": "0.030037",
+  "cumulative_phasing": "0.143197",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "32dcb856cf684f8a2e955196ffa7e62c",
+  "venture": "ID",
+  "data_date": "2020-08-09",
+  "daily_phasing": "0.013745",
+  "cumulative_phasing": "0.156942",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "c3dab63a8a0b05906052dc7a20108602",
+  "venture": "ID",
+  "data_date": "2020-08-10",
+  "daily_phasing": "0.025",
+  "cumulative_phasing": "0.181942",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "816d3d1c3db57daa0eca0568e4cbc64c",
+  "venture": "ID",
+  "data_date": "2020-08-11",
+  "daily_phasing": "0.038077",
+  "cumulative_phasing": "0.220019",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "ed7b7f6dcd096b38604692ba123d0a8f",
+  "venture": "ID",
+  "data_date": "2020-08-12",
+  "daily_phasing": "0.041293",
+  "cumulative_phasing": "0.261312",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "8b488d99b6974198c6139655bab33178",
+  "venture": "ID",
+  "data_date": "2020-08-13",
+  "daily_phasing": "0.053077",
+  "cumulative_phasing": "0.314389",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "09a08b5050c0a8b60468584b00944720",
+  "venture": "ID",
+  "data_date": "2020-08-14",
+  "daily_phasing": "0.03484",
+  "cumulative_phasing": "0.349229",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "f335b6c04bed4bffea6b26e9c92a66c9",
+  "venture": "ID",
+  "data_date": "2020-08-15",
+  "daily_phasing": "0.03167",
+  "cumulative_phasing": "0.380899",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "5f69382825f3e3bdeaa88992217440a0",
+  "venture": "ID",
+  "data_date": "2020-08-16",
+  "daily_phasing": "0.028077",
+  "cumulative_phasing": "0.408977",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "36e3ec7d6c08522501fde4d2a4413b95",
+  "venture": "ID",
+  "data_date": "2020-08-17",
+  "daily_phasing": "0.033077",
+  "cumulative_phasing": "0.442054",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "b4d80374ea69f4b83dad0ea76c7c6599",
+  "venture": "ID",
+  "data_date": "2020-08-18",
+  "daily_phasing": "0.038922",
+  "cumulative_phasing": "0.480976",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "5dc543b3c1e990696f380df7eff0c078",
+  "venture": "ID",
+  "data_date": "2020-08-19",
+  "daily_phasing": "0.031492",
+  "cumulative_phasing": "0.512468",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "28d405a29ad1bb603645786aa0ed9dbd",
+  "venture": "ID",
+  "data_date": "2020-08-20",
+  "daily_phasing": "0.038922",
+  "cumulative_phasing": "0.55139",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "aa4cce437813550b607809f2268fdf50",
+  "venture": "ID",
+  "data_date": "2020-08-21",
+  "daily_phasing": "0.031194",
+  "cumulative_phasing": "0.582584",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "3f7731b4a765e88e8892cf7405bc8a57",
+  "venture": "ID",
+  "data_date": "2020-08-22",
+  "daily_phasing": "0.042126",
+  "cumulative_phasing": "0.62471",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "faa663685623a0fcb9a87a2ca6b85dbf",
+  "venture": "ID",
+  "data_date": "2020-08-23",
+  "daily_phasing": "0.028077",
+  "cumulative_phasing": "0.652787",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "2ab13c4a2ee01afbd66acf4d41f53d73",
+  "venture": "ID",
+  "data_date": "2020-08-24",
+  "daily_phasing": "0.03484",
+  "cumulative_phasing": "0.687627",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "5281351f9294f0cee5ec85a44b61be4e",
+  "venture": "ID",
+  "data_date": "2020-08-25",
+  "daily_phasing": "0.046964",
+  "cumulative_phasing": "0.734591",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "052a42a5196de739aaac56c613b312a0",
+  "venture": "ID",
+  "data_date": "2020-08-26",
+  "daily_phasing": "0.033863",
+  "cumulative_phasing": "0.768454",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "fabaf3618d49391db154898241b533be",
+  "venture": "ID",
+  "data_date": "2020-08-27",
+  "daily_phasing": "0.063077",
+  "cumulative_phasing": "0.831531",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "9b77f70f089d8a236cba904d87f22c71",
+  "venture": "ID",
+  "data_date": "2020-08-28",
+  "daily_phasing": "0.039797",
+  "cumulative_phasing": "0.871328",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "fcdcbbd11f4774c6cbe9ddd501c7bdbd",
+  "venture": "ID",
+  "data_date": "2020-08-29",
+  "daily_phasing": "0.045342",
+  "cumulative_phasing": "0.91667",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "02e17529125a24eb7e6d490fc0787f3a",
+  "venture": "ID",
+  "data_date": "2020-08-30",
+  "daily_phasing": "0.039165",
+  "cumulative_phasing": "0.955835",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "6433fd750abae99a1d67489623773961",
+  "venture": "ID",
+  "data_date": "2020-08-31",
+  "daily_phasing": "0.044165",
+  "cumulative_phasing": "1",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "52be9a25fbd27c6a4a78e6288a76e65b",
+  "venture": "ID",
+  "data_date": "2020-09-01",
+  "daily_phasing": "0.023",
+  "cumulative_phasing": "0.023",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "9cd3516723f7340c61f4ab324af25bef",
+  "venture": "ID",
+  "data_date": "2020-09-02",
+  "daily_phasing": "0.0184",
+  "cumulative_phasing": "0.0414",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "e1ad9e8d940380c76bf28b366910d56a",
+  "venture": "ID",
+  "data_date": "2020-09-03",
+  "daily_phasing": "0.0264",
+  "cumulative_phasing": "0.0678",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "861b2c9e7d11d28198a9be8450b96ffc",
+  "venture": "ID",
+  "data_date": "2020-09-04",
+  "daily_phasing": "0.0194",
+  "cumulative_phasing": "0.0872",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "9add0f870787f11b887b644125024702",
+  "venture": "ID",
+  "data_date": "2020-09-05",
+  "daily_phasing": "0.0168",
+  "cumulative_phasing": "0.104",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "29ff877a3358f293bf137b8b2a6f4c7e",
+  "venture": "ID",
+  "data_date": "2020-09-06",
+  "daily_phasing": "0.0168",
+  "cumulative_phasing": "0.1208",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "8294787885478078e9cb1ecf638252da",
+  "venture": "ID",
+  "data_date": "2020-09-07",
+  "daily_phasing": "0.0232",
+  "cumulative_phasing": "0.144",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}, {
+  "unique_key": "2e68a143f82ce0a6ad2962cb7bd03b56",
+  "venture": "ID",
+  "data_date": "2020-09-08",
+  "daily_phasing": "0.031",
+  "cumulative_phasing": "0.175",
+  "processing_time": "2024-09-26T20:10:10",
+  "processing_date": "2024-09-26"
+}]
