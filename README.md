@@ -10,7 +10,7 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 ### 1. Sales Analysis Dashboard
 - **Tools:** Looker, Google BigQuery
 - **Description:** A dashboard analyzing sales data from a retail store. It includes key metrics such as total sales, top-selling products, and sales trends over time.
-- **Link to Project:** [Sales Analysis Dashboard](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Sales%20Analysis%20Dashboard])
+- **Link to Project:** [Sales Analysis Dashboard](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Sales%20Analysis%20Dashboard]](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Sales%20Analysis%20Dashboard)
 
 ### 2. Customer Segmentation Analysis
 - **Tools:** Looker, Google BigQuery
