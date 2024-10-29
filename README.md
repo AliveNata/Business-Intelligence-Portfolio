@@ -19,13 +19,13 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 
 ### 3. Automation Report
 - **Tools:** Google BigQuery, AppScript
-- **Description:** A project that segments customers based on their purchasing behavior using K-Means clustering.
-- **Link to Project:** [Customer Segmentation Analysis](link-to-your-project)
+- **Description:** Automation Report running by Year/Quarter/Month/Week or Daily depending user needed then automatically sent to their emails.
+- **Link to Project:** [Automation Report](link-to-your-project)
 
-### 4. Migration Database
-- **Tools:** Google BigQuery
-- **Description:** A project that segments customers based on their purchasing behavior using K-Means clustering.
-- **Link to Project:** [Customer Segmentation Analysis](link-to-your-project)
+### 4. Classification Form Upload
+- **Tools:** MySQL 8.0, React.js, Node.js
+- **Description:** A project that user segments based on their provinces behavior using classification clustering by their upload files
+- **Link to Project:** [Classification Form Upload](link-to-your-project)
 
 ## How to Use
 Clone this repository to your local machine and explore the projects. Each project folder contains a detailed README with instructions on how to run the code.
