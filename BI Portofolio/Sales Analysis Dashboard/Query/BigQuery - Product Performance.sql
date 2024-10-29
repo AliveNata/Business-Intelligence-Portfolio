@@ -16,16 +16,16 @@ SELECT
     fpd.onmv_item_sold,
     fpd.onmv_order,
     der.final_rate
-FROM `bi-dwh-intrepid.intrepid_dwh.fact_product_sales_daily` fpd
-JOIN `bi-dwh-intrepid.intrepid_dwh.dim_shop_info` dsi on fpd.shop_id = dsi.shop_id and fpd.venture = dsi.venture and fpd.order_created_date >= dsi.start_date and fpd.order_created_date <= dsi.end_date
-LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_category_manual` AS dcm -- Get Seller SKU info
+FROM `fact_product_sales_daily` fpd
+JOIN `dim_shop_info` dsi on fpd.shop_id = dsi.shop_id and fpd.venture = dsi.venture and fpd.order_created_date >= dsi.start_date and fpd.order_created_date <= dsi.end_date
+LEFT JOIN `dim_category_manual` AS dcm -- Get Seller SKU info
     ON fpd.venture = dcm.venture
     AND fpd.shop_id = dcm.shop_id
     AND fpd.product_id = dcm.product_id
     AND coalesce(upper(trim(fpd.seller_sku)), '0') = coalesce(upper(trim(dcm.seller_sku)), '0')
     -- AND coalesce(upper(trim(fpd.variant_id)), '0') = coalesce(upper(trim(dcm.variant_id)), '0')
-LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_acl` dal ON fpd.shop_id = dal.shop_id and fpd.venture = dal.venture
-LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_exc_rate` der ON DATE_TRUNC(fpd.order_created_date, MONTH) = der.date and fpd.venture = der.venture 
+LEFT JOIN `dim_acc` dal ON fpd.shop_id = dal.shop_id and fpd.venture = dal.venture
+LEFT JOIN `dim_exc_rate` der ON DATE_TRUNC(fpd.order_created_date, MONTH) = der.date and fpd.venture = der.venture 
 WHERE fpd.venture = 'ID'
 and REGEXP_CONTAINS(dal.emails, @DS_USER_EMAIL)
 and fpd.order_created_date >= PARSE_DATE('%Y%m%d', @DS_START_DATE)

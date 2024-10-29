@@ -22,9 +22,9 @@ WITH order_data AS (
         fod.is_delivered,
         fod.is_returned,
         fod.is_cancelled
-    FROM `bi-dwh-intrepid.intrepid_dwh.fact_order_data` fod
-    JOIN `bi-dwh-intrepid.intrepid_dwh.dim_shop_info` dsi on fod.venture = dsi.venture and fod.shop_id = dsi.shop_id and fod.order_created_date >= dsi.start_date and fod.order_created_date <= dsi.end_date
-    LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_acl` dal on fod.shop_id = dal.shop_id and fod.venture = dal.venture
+    FROM `fact_order_data` fod
+    JOIN `dim_shop_info` dsi on fod.venture = dsi.venture and fod.shop_id = dsi.shop_id and fod.order_created_date >= dsi.start_date and fod.order_created_date <= dsi.end_date
+    LEFT JOIN `dim_acc` dal on fod.shop_id = dal.shop_id and fod.venture = dal.venture
     WHERE fod.venture = 'ID' and REGEXP_CONTAINS(dal.emails, @DS_USER_EMAIL) and fod.order_created_date >= PARSE_DATE('%Y%m%d', @DS_START_DATE) and fod.order_created_date <= PARSE_DATE('%Y%m%d', @DS_END_DATE) and fod.is_gwp = 0 and dsi.count_gmv_for_int = 1
 )
 
@@ -58,7 +58,7 @@ SELECT
     SUM(case when is_cancelled = 1 and cancelled_by = 'SYSTEM' THEN order_fraction else 0 END) cancelled_system_order,
     MAX(final_rate) as final_rate
 FROM order_data oda
-LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_exc_rate` der on DATE_TRUNC(oda.order_created_date, MONTH) = der.date and der.venture = 'ID'
+LEFT JOIN `dim_exc_rate` der on DATE_TRUNC(oda.order_created_date, MONTH) = der.date and der.venture = 'ID'
 GROUP BY 
     brand_name,
     platform,

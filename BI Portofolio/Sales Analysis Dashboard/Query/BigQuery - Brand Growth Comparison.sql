@@ -7,11 +7,11 @@ WITH aggregate_data AS (
         MAX(der.final_rate) as final_rate,
         MAX(dal.emails) as emails,
         MAX(dpg.cumulative_phasing) as cum_phasing
-    FROM `bi-dwh-intrepid.intrepid_dwh.fact_shop_sales_daily` fsd
-  	JOIN `bi-dwh-intrepid.intrepid_dwh.dim_shop_info` dsi on fsd.shop_id = dsi.shop_id and fsd.venture = dsi.venture and fsd.order_created_date <= dsi.end_date
-    LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_acl` dal on fsd.shop_id = dal.shop_id and fsd.venture = dal.venture
-    LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_exc_rate` der on DATE_TRUNC(fsd.order_created_date, MONTH) = der.date and fsd.venture = der.venture
-    LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_phasing` dpg on fsd.order_created_date = dpg.data_date and fsd.venture = dpg.venture
+    FROM `fact_shop_sales_daily` fsd
+  	JOIN `dim_shop_info` dsi on fsd.shop_id = dsi.shop_id and fsd.venture = dsi.venture and fsd.order_created_date <= dsi.end_date
+    LEFT JOIN `dim_acc` dal on fsd.shop_id = dal.shop_id and fsd.venture = dal.venture
+    LEFT JOIN `dim_exc_rate` der on DATE_TRUNC(fsd.order_created_date, MONTH) = der.date and fsd.venture = der.venture
+    LEFT JOIN `dim_phasing` dpg on fsd.order_created_date = dpg.data_date and fsd.venture = dpg.venture
     WHERE fsd.venture = 'ID' and fsd.order_created_date >= PARSE_DATE("%Y-%m-%d",(FORMAT_DATE('%Y-%m-01',DATE_SUB(DATE_SUB(CURRENT_DATE("Asia/Jakarta"), INTERVAL 1 DAY), INTERVAL 6 MONTH)))) and order_created_date < CURRENT_DATE("Asia/Jakarta") and dsi.count_gmv_for_int = 1
     GROUP BY
         dsi.brand_name,

@@ -18,9 +18,9 @@ WITH dim_calender AS (
         ifnull(fsd.onmv, 0) onmv,
         ifnull(fsd.onmv_item_sold, 0) onmv_item_sold,
         ifnull(fsd.onmv_order, 0) onmv_order
-    FROM `bi-dwh-intrepid.intrepid_dwh.fact_order_data` fod
-    CROSS JOIN `bi-dwh-intrepid.intrepid_dwh.dim_shop_info` dsi 
-    LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.fact_shop_sales_daily` fsd on fsd.shop_id = dsi.shop_id and fsd.order_created_date = fod.order_created_date
+    FROM `fact_order_data` fod
+    CROSS JOIN `dim_shop_info` dsi 
+    LEFT JOIN `fact_shop_sales_daily` fsd on fsd.shop_id = dsi.shop_id and fsd.order_created_date = fod.order_created_date
     WHERE dsi.venture = 'ID' 
     and fod.order_created_date >= '2021-01-01'
     and dsi.count_gmv_for_int = 1
@@ -36,9 +36,9 @@ target_data AS (
         SUM(dtt.target_gmv) * MAX(der.final_rate) as target_gmv,
         SUM(dtt.target_nmv) * MAX(der.final_rate) as target_nmv,
         MAX(der.final_rate) as final_rate
-    FROM `bi-dwh-intrepid.intrepid_dwh.dim_target` dtt
-    LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_exc_rate` der ON dtt.data_date = der.date and dtt.venture = der.venture
-    LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_shop_info` dsi on dtt.shop_id = dsi.shop_id and dtt.venture = dsi.venture
+    FROM `dim_target` dtt
+    LEFT JOIN `dim_exc_rate` der ON dtt.data_date = der.date and dtt.venture = der.venture
+    LEFT JOIN `dim_shop_info` dsi on dtt.shop_id = dsi.shop_id and dtt.venture = dsi.venture
     WHERE dtt.venture = 'ID'
     GROUP BY 
         dtt.data_date,
@@ -64,11 +64,11 @@ SELECT DISTINCT
      dtt.target_gmv / COUNT(DISTINCT dcd.order_created_date) OVER (PARTITION BY dcd.shop_id, DATE_TRUNC(dcd.order_created_date, MONTH)) / COUNT(DISTINCT dcd.platform) OVER (PARTITION BY dsi.shop_id, dcd.order_created_date) as target_gmv_eom,
      dtt.target_nmv / COUNT(DISTINCT dcd.order_created_date) OVER (PARTITION BY dcd.shop_id, DATE_TRUNC(dcd.order_created_date, MONTH)) / COUNT(DISTINCT dcd.platform) OVER (PARTITION BY dsi.shop_id, dcd.order_created_date) as target_nmv_eom
 FROM  dim_calender dcd
-JOIN `bi-dwh-intrepid.intrepid_dwh.dim_shop_info` dsi on dcd.shop_id = dsi.shop_id and dcd.venture = dsi.venture and dcd.order_created_date >= dsi.start_date and dcd.order_created_date <= dsi.end_date 
-LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_acl` dal ON dcd.shop_id = dal.shop_id and dcd.venture = dal.venture
-LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_exc_rate` der ON DATE_TRUNC(dcd.order_created_date, MONTH) = der.date and dcd.venture = der.venture
+JOIN `dim_shop_info` dsi on dcd.shop_id = dsi.shop_id and dcd.venture = dsi.venture and dcd.order_created_date >= dsi.start_date and dcd.order_created_date <= dsi.end_date 
+LEFT JOIN `dim_acc` dal ON dcd.shop_id = dal.shop_id and dcd.venture = dal.venture
+LEFT JOIN `dim_exc_rate` der ON DATE_TRUNC(dcd.order_created_date, MONTH) = der.date and dcd.venture = der.venture
 LEFT JOIN target_data dtt on date_trunc(dcd.order_created_date, MONTH) = dtt.data_date and dcd.shop_id = dtt.shop_id
-LEFT JOIN `bi-dwh-intrepid.intrepid_dwh.dim_phasing` dpg on dcd.order_created_date = dpg.data_date and dcd.venture = dpg.venture
+LEFT JOIN `dim_phasing` dpg on dcd.order_created_date = dpg.data_date and dcd.venture = dpg.venture
 WHERE dcd.venture = 'ID' 
 and REGEXP_CONTAINS(dal.emails, @DS_USER_EMAIL) 
 and dcd.order_created_date >= PARSE_DATE('%Y%m%d', @DS_START_DATE) 
