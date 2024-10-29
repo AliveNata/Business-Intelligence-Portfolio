@@ -14,18 +14,18 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 
 ### 2. Customer Segmentation Analysis
 - **Tools:** Looker, Google BigQuery
-- **Description:** A project that segments customers based on their purchasing behavior using K-Means clustering.
-- **Link to Project:** [Customer Segmentation Analysis](link-to-your-project)
+- **Description:** A dashboard analyzing Customer Service data from a retail store and conversation between customers and agent, It includes key metrics such as behaviour, unique conversation. top asking chat/product, CRT, and ACHT.
+- **Link to Project:** [Customer Segmentation Analysis](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Customer%20Segmentation%20Analysis/Query)
 
-### 3. Automation Report
+### 3. Send Email Automation Report
 - **Tools:** Google BigQuery, Google AppScript
 - **Description:** Automation Report running by Year/Quarter/Month/Week or Daily depending user needed then automatically sent to their emails.
-- **Link to Project:** [Automation Report](link-to-your-project)
+- **Link to Project:** [Send Email Automation Report](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Send%20Email%20Automation%20Report)
 
 ### 4. Classification Form Upload
 - **Tools:** MySQL 8.0, React.js, Node.js
 - **Description:** A project that user segments based on their provinces behavior using classification clustering by their upload files
-- **Link to Project:** [Classification Form Upload](link-to-your-project)
+- **Link to Project:** [Classification Form Upload](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Classification%20Form%20Upload)
 
 ## How to Use
 Clone this repository to your local machine and explore the projects. Each project folder contains a detailed README with instructions on how to run the code.
