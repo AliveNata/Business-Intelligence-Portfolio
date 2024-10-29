@@ -18,7 +18,7 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 - **Link to Project:** [Customer Segmentation Analysis](link-to-your-project)
 
 ### 3. Automation Report
-- **Tools:** Google BigQuery, AppScript
+- **Tools:** Google BigQuery, Google AppScript
 - **Description:** Automation Report running by Year/Quarter/Month/Week or Daily depending user needed then automatically sent to their emails.
 - **Link to Project:** [Automation Report](link-to-your-project)
 
