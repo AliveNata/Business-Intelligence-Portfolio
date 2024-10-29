@@ -20,7 +20,7 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 ### 3. Send Email Automation Report
 - **Tools:** Google BigQuery, Google AppScript
 - **Description:** Automation Report running by Year/Quarter/Month/Week or Daily depending user needed then automatically sent to their emails.
-- **Link to Project:** [Automation Report](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Send%20Email%20Automation%20Report)
+- **Link to Project:** [Send Email Automation Report](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Send%20Email%20Automation%20Report)
 
 ### 4. Classification Form Upload
 - **Tools:** MySQL 8.0, React.js, Node.js
