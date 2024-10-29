@@ -15,7 +15,7 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 ### 2. Customer Segmentation Analysis
 - **Tools:** Looker, Google BigQuery
 - **Description:** A dashboard analyzing Customer Service data from a retail store and conversation between customers and agent, It includes key metrics such as behaviour, unique conversation. top asking chat/product, CRT, and ACHT.
-- **Link to Project:** [Customer Segmentation Analysis](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Customer%20Segmentation%20Analysis/Query)
+- **Link to Project:** [Customer Segmentation Analysis](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Customer%20Segmentation%20Analysis/)
 
 ### 3. Send Email Automation Report
 - **Tools:** Google BigQuery, Google AppScript
