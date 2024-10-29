@@ -1,0 +1,97 @@
+.table-container {
+    width: 100%;
+    padding: 20px;
+    background-color: #001f3f; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+}
+
+.styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white; 
+    border: 1px solid black; 
+    border-radius: 8px; 
+    overflow: hidden; 
+    margin-top: 20px; 
+    display: block; /* Menjadikan tabel sebagai block untuk menghindari overflow */
+    max-width: 100%; /* Maksimal lebar tabel sesuai container */
+    overflow-x: auto; /* Mengizinkan scroll horizontal jika tabel terlalu lebar */
+}
+
+.styled-table th,
+.styled-table td {
+    border: 1px solid black; 
+    padding: 12px; 
+    text-align: center;
+    color: black; 
+}
+
+.styled-table th {
+    background-color: #001f3f; 
+    color: white; 
+    font-weight: bold;
+    text-transform: uppercase; 
+    border: 1px solid white; 
+}
+
+.styled-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* Warna baris genap */
+}
+
+.styled-table tbody tr:hover {
+    background-color: #e0e0e0; /* Warna latar belakang saat hover */
+}
+
+.footer {
+    text-align: center;
+    font-size: 12px;
+    color: white;
+    background-color: #001f3f;
+    padding: 10px;
+    margin-top: 40px; 
+    clear: both; 
+}
+
+.button-container {
+    display: flex;
+    justify-content: flex-start; /* Mengatur tombol agar berada di awal */
+    margin-top: 20px;
+    margin-bottom: 5px; 
+}
+
+.download-button, .generate-button {
+    background-color: #001f3f;
+    color: white;
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+    margin-right: 10px; 
+}
+
+.back-button {
+    margin-right: 10px; 
+    padding: 10px 15px; 
+    background-color: #001f3f; 
+    color: white; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center; /* Untuk menyelaraskan ikon dan teks */
+}
+
+.download-button:hover, .generate-button:hover {
+    background-color: #000000; /* Warna saat hover */
+}
+
+.back-button:hover, .back-button:hover {
+    background-color: #000000; /* Warna saat hover */
+}
+
+.back-button svg {
+    width: 16px; /* Ukuran ikon */
+    height: 16px;
+}

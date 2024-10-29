@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #001f3f; /* Biru dongker untuk background */
+  color: white; /* Warna putih untuk teks default */
+}
+
+h1 {
+  color: #FFD700; /* Warna kuning untuk tulisan SIMAJA */
+  font-weight: 600;
+}
+
+p, h2, th, td, .footer {
+  font-weight: 400;
+  color: white; /* Warna putih untuk teks lainnya */
+}
+
+.file-upload-text {
+  color: black; /* Warna hitam untuk teks */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.footer {
+  font-size: 12px; /* Ukuran lebih kecil untuk tulisan copyright */
+  text-align: center;
+  margin-top: 20px;
+}

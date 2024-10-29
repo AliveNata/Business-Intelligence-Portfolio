@@ -1,0 +1,22 @@
+{
+    "btpd_file_upload": "BTPD File Upload",
+    "upload_instruction": "Please upload the file from the template provided",
+    "template_download_title": "Don't change the column names, they are matched with the database",
+    "here": "here",
+    "upload_button": "Upload",
+    "view_table_button": "View Table",
+    "select_file_alert": "Please select a file first.",
+    "upload_success_message": "File successfully uploaded",
+    "upload_error_message": "An error occurred while uploading the file",
+    "choose_files": "Choose Files",
+    "no_file_chosen": "No file chosen",
+    "files_selected": "files selected",
+    "table_data_upload": "Table Data",
+    "back_to_upload_from_table": "Back to Upload File",
+    "download_to_excel_button": "Download to Excel",
+    "generate_button": "Generate",
+    "generate_data_display": "Classification Data",
+    "back_to_table": "Back to Table Data",
+    "back_to_upload": "Reupload",
+    "copyright": "© 2024 SIMAJA. All rights reserved."
+  }

@@ -1,0 +1,25 @@
+## Install di node.js
+curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+sudo apt-get install -y nodejs'
+
+npm init -y
+npm install express mysql mysql2 multer body-parser cors csv-parser xlsx react-router-dom
+npm install -g nodemon <-- package global
+
+jika sudah terinstall bisa cek di package.json
+
+## install di react.js
+npm install axios
+npm install csv-parser
+npm install xlsx multer
+npm install i18next react-i18next
+npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
+
+## Jalanin aerver
+#1 cd C:\Users -> depends local path
+#2 node server.js
+
+## Jalanin react
+#1 cd Classification-Form-Upload
+#2 npm start 
+

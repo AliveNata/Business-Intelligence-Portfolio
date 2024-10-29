@@ -1,0 +1,23 @@
+{
+    "btpd_file_upload": "Unggah File BTPD",
+    "upload_instruction": "Mohon mengunggah file dari template yang sudah disiapkan",
+    "template_download_title": "Nama kolom jangan dirubah karena sudah disesuaikan di database",
+    "here": "disini",
+    "upload_button": "Unggah",
+    "view_table_button": "Lihat Tabel",
+    "select_file_alert": "Silakan pilih file terlebih dahulu.",
+    "upload_success_message": "File berhasil diunggah",
+    "upload_error_message": "Terjadi kesalahan saat mengunggah file",
+    "choose_files": "Pilih Berkas",
+    "no_file_chosen": "Tidak ada berkas yang dipilih",
+    "files_selected": "berkas dipilih", 
+    "table_data_upload": "Data Table",
+    "back_to_upload_from_table": "Kembali ke File Upload",
+    "download_to_excel_button": "Download ke Excel",
+    "generate_button": "Proses",
+    "generate_data_display": "Data Klasifikasi",
+    "back_to_table": "Kembali ke Data Tabel",
+    "back_to_upload": "Upload Kembali",
+    "copyright": "© 2024 SIMAJA. Hak cipta dilindungi undang-undang."
+  }
+  

@@ -1,0 +1,64 @@
+.language-switcher {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.language-toggle {
+    display: none;
+}
+
+.language-slider {
+    position: relative;
+    width: 80px;
+    height: 40px;
+    background-color: #001f3f; 
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px; 
+}
+
+.language-slider:before {
+    content: '';
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: rgba(255, 255, 255, 0.7); 
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: left 0.3s;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); 
+    backdrop-filter: blur(5px); 
+}
+
+.language-toggle:not(:checked) + .language-slider:before {
+    left: 7px; /* Posisi awal untuk bahasa Indonesia */
+}
+
+.language-toggle:checked + .language-slider:before {
+    left: 62px; /* Posisi untuk bahasa Inggris */
+}
+
+.language-slider .flag {
+    width: 25px; 
+    height: 25px;
+    pointer-events: none;
+    transition: opacity 0.3s;
+}
+
+.language-slider .id-flag, .language-slider .en-flag {
+    position: relative;
+    z-index: 1; 
+}
+
+.language-slider:hover {
+    background-color: #ffffff; 
+}

@@ -1,0 +1,105 @@
+.upload-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.upload-container h1 {
+    color: #0b0b0b;
+}
+
+.upload-container input[type="file"] {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #001f3f;
+    border-radius: 4px;
+}
+
+.upload-container button {
+    padding: 10px 20px;
+    background-color: #001f3f; 
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.upload-container button:hover {
+    background-color: #0056b3; 
+}
+
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
+
+/* .custom-file-upload {
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    background-color: transparent; /* Warna tombol kembali ke default 
+    color: black; /* Warna teks hitam agar sesuai dengan warna default browser 
+    border: 1px solid black; /* Tambahkan garis kotak 
+    border-radius: 4px; /* Sedikit membulatkan sudut 
+    margin-right: 10px;
+    transition: background-color 0.3s ease; /* Animasi untuk transisi 
+}*/
+
+/* .custom-file-upload:hover {
+    background-color: #f1f1f1; /* Warna hover untuk efek interaktif 
+} */
+
+/* .file-upload-label {
+    font-size: 14px;
+    margin-left: 10px;
+    border: 1px solid black; /* Tambahkan garis kotak di sekitar status file
+    padding: 6px 12px; /* Tambahkan sedikit padding untuk jarak di dalam kotak
+    border-radius: 4px; /* Sedikit membulatkan sudut
+    display: inline-block; /* Agar tampilan mirip dengan tombol
+    background-color: #f9f9f9; /* Warna latar belakang default yang ringan
+} */
+
+
+.custom-file-wrapper {
+    display: flex;
+    align-items: center;
+    border: 1px solid black; /* Kotak mengelilingi tombol dan teks */
+    border-radius: 4px; /* Sedikit membulatkan sudut */
+    padding: 6px 12px;
+    width: fit-content; /* Menyesuaikan lebar dengan konten */
+}
+
+.custom-file-upload {
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    background-color:#0b0b0b ;
+    color: white; 
+    border: none;
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.custom-file-upload:hover {
+    background-color: #0056b3;
+}
+
+.file-upload-label {
+    font-size: 14px;
+    color: black;
+}
+
+.button-container {
+    display: flex;              
+    gap: 10px;                  
+    margin-top: 10px;           
+}
+
+.button-container button {
+    padding: 10px 20px;
+}

@@ -1,0 +1,7 @@
+/* 
+Change Log
+
+#1 1st draft mockup release - 20241020
+#2 Adding page genereta-display & add Switch Language UI/UX - 20241022   
+
+*/
