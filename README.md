@@ -27,5 +27,10 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 - **Description:** A project that user segments based on their provinces behavior using classification clustering by their upload files
 - **Link to Project:** [Classification Form Upload](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Classification%20Form%20Upload)
 
+### 5. NBA Player Stats Data Analysis 2023-2024
+- **Tools:** Python (jupyter Notebook), Pandas, NumPy, OpenPyxl
+- **Description:** This project aims to manage and analyze NBA player performance data for the 2023-2024 season, imported from various monthly datasets. The datasets are consolidated into a single primary source with additional information such as game dates to support time-based analysis. The analysis results can provide valuable insights for team management, such as player performance evaluation, individual statistical trends, and identifying potential areas for strategic improvement based on historical performance.
+- **Link to Project:** [NBA Player Stats Data Analysis 2023-2024](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Classification%20Form%20Upload)
+
 ## How to Use
 Clone this repository to your local machine and explore the projects. Each project folder contains a detailed README with instructions on how to run the code.
