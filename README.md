@@ -3,6 +3,11 @@ Welcome to my Business Intelligence portfolio. This portfolio is a collection of
 
 Through these projects, I have helped businesses identify important trends, optimize operations, and improve performance with data-driven insights. I believe that the ability to analyze and visualize data is key to creating effective and successful business strategies.
 
+📌 Key Highlights
+✅ Data Analysis & Insights – Extracting valuable insights from large datasets.
+✅ Dashboard & Visualization – Creating interactive dashboards for better decision-making.
+✅ Automation & Optimization – Implementing automated reporting systems.
+
 I hope this portfolio provides a clear picture of my expertise and contributions to the field of Business Intelligence.
 
 ## Projects
@@ -34,3 +39,8 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 
 ## How to Use
 Clone this repository to your local machine and explore the projects. Each project folder contains a detailed README with instructions on how to run the code.
+
+If you have any questions, feedback, or collaboration ideas, feel free to reach out! 🚀
+📧 Email: alivenata@gmail.com 
+🔗 LinkedIn: [Alief Akbar](https://www.linkedin.com/in/alvnts/)
+🌐 Portfolio Website: - 
