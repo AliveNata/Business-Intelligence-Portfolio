@@ -40,6 +40,7 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 ## How to Use
 Clone this repository to your local machine and explore the projects. Each project folder contains a detailed README with instructions on how to run the code.
 
+## Contact Me
 If you have any questions, feedback, or collaboration ideas, feel free to reach out! 🚀  
 📧 Email: alivenata@gmail.com   
 🔗 LinkedIn: [Alief Akbar](https://www.linkedin.com/in/alvnts/)  
