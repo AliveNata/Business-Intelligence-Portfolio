@@ -37,6 +37,11 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 - **Description:** This project aims to manage and analyze NBA player performance data for the 2023-2024 season, imported from various monthly datasets. The datasets are consolidated into a single primary source with additional information such as game dates to support time-based analysis. The analysis results can provide valuable insights for team management, such as player performance evaluation, individual statistical trends, and identifying potential areas for strategic improvement based on historical performance.
 - **Link to Project:** [NBA Player Stats Data Analysis 2023-2024](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/NBA%20Player%20Stats%20Data%20Analysis%202023-2024)
 
+### 5. eTicketing Web Based
+- **Tools:** Laravel, MySQL, PHP, CSS
+- **Description:** Creating a web-based eTicketing system aims to simplify, secure, and enhance efficiency in ticket sales for both large and small events. With features such as automation, QR code validation, analytics dashboard, and payment integration, the system can provide a better experience for both users and event organizers.
+- **Link to Project:** [eTicketing Web Based]
+
 ## How to Use
 Clone this repository to your local machine and explore the projects. Each project folder contains a detailed README with instructions on how to run the code.
 
