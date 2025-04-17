@@ -1,5 +1,5 @@
 # Business-Intelligence-Portfolio
-Welcome to my Business Intelligence portfolio. This portfolio is a collection of projects that showcase my skills in data analysis, data visualization, and dashboard creation that support data-driven decision making. Each project in this portfolio reflects my experience working with various BI tools, such as ETL, Data Visualization, SQL, NoSQL, Formula (Excel/Gsheet) and AppScript.
+Welcome to my Business Intelligence portfolio. This portfolio is a collection of projects that showcase my skills in data analysis, data visualization, and dashboard creation that support data-driven decision making. Each project in this portfolio reflects my experience working with various BI tools, such as ETL, Data Visualization, Python, Jupyter Notebook, SQL, NoSQL, Formula (Excel/Gsheet) and AppScript.
 
 Through these projects, I have helped businesses identify important trends, optimize operations, and improve performance with data-driven insights. I believe that the ability to analyze and visualize data is key to creating effective and successful business strategies.
 
