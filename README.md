@@ -49,4 +49,4 @@ Clone this repository to your local machine and explore the projects. Each proje
 If you have any questions, feedback, or collaboration ideas, feel free to reach out! 🚀  
 📧 Email: alivenata@gmail.com   
 🔗 LinkedIn: [Alief Akbar](https://www.linkedin.com/in/alvnts/)  
-🌐 Portfolio: [PDF](https://github.com/AliveNata/Business-Intelligence-Portfolio/blob/main/BI%20Portofolio/Portfolio%20-%20Alief%20Akbar.pdf) 
+🌐 Portfolio: [Alxx](https://alivyx.netlify.app) 
