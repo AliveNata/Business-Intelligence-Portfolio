@@ -49,4 +49,4 @@ Clone this repository to your local machine and explore the projects. Each proje
 If you have any questions, feedback, or collaboration ideas, feel free to reach out! 🚀  
 📧 Email: alivenata@gmail.com   
 🔗 LinkedIn: [Alief Akbar](https://www.linkedin.com/in/alvnts/)  
-🌐 Website: [Alyx](https://alivyx.netlify.app) 
+🌐 Website: [Alyx Labs](https://alivyx.netlify.app) 
