@@ -19,7 +19,7 @@ Two automation patterns for two different needs, both included in this folder:
 - Exported file only contains the report tab, other internal sheets stay hidden during export.
 
 ## Impact
-The BI team stopped manually generating and sending the same recurring report by hand. Because recipient and subject live in a config sheet instead of the code, changing who receives the report did not need a script change. The last sent timestamp made it easy to confirm the automation actually ran that day instead of assuming it did.
+The BI team stopped manually generating and sending the same recurring report by hand. The scheduled report alone now covers 18 brand accounts in one email, sent automatically every day, over 30 sends a month with no manual step. Because recipient and subject live in a config sheet instead of the code, changing who receives the report did not need a script change. The last sent timestamp made it easy to confirm the automation actually ran that day instead of assuming it did.
 
 ## Tools
 Google Apps Script (JavaScript), Google Sheets, Gmail API, HTML email templating.
