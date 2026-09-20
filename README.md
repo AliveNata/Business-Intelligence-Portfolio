@@ -40,7 +40,7 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 > Non-BI projects (web development such as eTicketing, rental system, etc.) are listed separately on my [GitHub profile](https://github.com/AliveNata) and [website](https://alyxlabs.tech).
 
 ## How to Use
-Each project folder contains query, notebook, or dashboard files you can open directly. Per-project README files are being added gradually — in the meantime, check the `Dashboard`/`Query` folders inside each project.
+Each project folder contains query, notebook, or dashboard files you can open directly. Per-project README files are being added gradually. For now, check the `Dashboard`/`Query` folders inside each project.
 
 ## Contact Me
 If you have any questions, feedback, or collaboration ideas, feel free to reach out! 🚀  
