@@ -15,38 +15,35 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 ### 1. Sales Analysis Dashboard
 - **Tools:** Looker, Google BigQuery
 - **Description:** A dashboard analyzing sales data from a retail store. It includes key metrics such as total sales, top-selling products, and sales trends over time.
-- **Link to Project:** [Sales Analysis Dashboard](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Sales%20Analysis%20Dashboard)
+- **Link to Project:** [Sales Analysis Dashboard](https://github.com/AliveNata/Business-Intelligence-Portfolio/tree/main/BI%20Portofolio/Sales%20Analysis%20Dashboard)
 
 ### 2. Customer Segmentation Analysis
 - **Tools:** Looker, Google BigQuery
 - **Description:** A dashboard analyzing Customer Service data from a retail store and conversation between customers and agent, It includes key metrics such as behaviour, unique conversation. top asking chat/product, CRT, and ACHT.
-- **Link to Project:** [Customer Segmentation Analysis](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Customer%20Segmentation%20Analysis/)
+- **Link to Project:** [Customer Segmentation Analysis](https://github.com/AliveNata/Business-Intelligence-Portfolio/tree/main/BI%20Portofolio/Customer%20Segmentation%20Analysis/)
 
 ### 3. Send Email Automation Report
 - **Tools:** Google BigQuery, Google AppScript
 - **Description:** Automation Report running by Year/Quarter/Month/Week or Daily depending user needed then automatically sent to their emails.
-- **Link to Project:** [Send Email Automation Report](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Send%20Email%20Automation%20Report)
+- **Link to Project:** [Send Email Automation Report](https://github.com/AliveNata/Business-Intelligence-Portfolio/tree/main/BI%20Portofolio/Send%20Email%20Automation%20Report)
 
 ### 4. Classification Form Upload
 - **Tools:** MySQL 8.0, React.js, Node.js
 - **Description:** A project that user segments based on their provinces behavior using classification clustering by their upload files
-- **Link to Project:** [Classification Form Upload](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/Classification%20Form%20Upload)
+- **Link to Project:** [Classification Form Upload](https://github.com/AliveNata/Business-Intelligence-Portfolio/tree/main/BI%20Portofolio/Classification%20Form%20Upload)
 
 ### 5. NBA Player Stats Data Analysis 2023-2024
 - **Tools:** Python (Jupyter Notebook), Pandas, NumPy, OpenPyxl
 - **Description:** This project aims to manage and analyze NBA player performance data for the 2023-2024 season, imported from various monthly datasets. The datasets are consolidated into a single primary source with additional information such as game dates to support time-based analysis. The analysis results can provide valuable insights for team management, such as player performance evaluation, individual statistical trends, and identifying potential areas for strategic improvement based on historical performance.
-- **Link to Project:** [NBA Player Stats Data Analysis 2023-2024](https://github.com/AliveNata/Business-Intelligence-Portofolio/tree/main/BI%20Portofolio/NBA%20Player%20Stats%20Data%20Analysis%202023-2024)
+- **Link to Project:** [NBA Player Stats Data Analysis 2023-2024](https://github.com/AliveNata/Business-Intelligence-Portfolio/tree/main/BI%20Portofolio/NBA%20Player%20Stats%20Data%20Analysis%202023-2024)
 
-### 5. eTicketing Web Based
-- **Tools:** Laravel, MySQL, PHP, CSS
-- **Description:** Creating a web-based eTicketing system aims to simplify, secure, and enhance efficiency in ticket sales for both large and small events. With features such as automation, QR code validation, analytics dashboard, and payment integration, the system can provide a better experience for both users and event organizers.
-- **Link to Project:** [eTicketing Web Based]
+> Proyek non-BI (web development seperti eTicketing, rental system, dll) ada di [profil GitHub](https://github.com/AliveNata) dan [website](https://alyxlabs.tech) saya secara terpisah.
 
 ## How to Use
-Clone this repository to your local machine and explore the projects. Each project folder contains a detailed README with instructions on how to run the code.
+Setiap folder proyek berisi query, notebook, atau file dashboard yang bisa dibuka langsung. README detail per proyek masih bertahap ditambahkan, untuk sementara silakan cek isi folder `Dashboard`/`Query` masing-masing proyek.
 
 ## Contact Me
 If you have any questions, feedback, or collaboration ideas, feel free to reach out! 🚀  
 📧 Email: alivenata@gmail.com   
 🔗 LinkedIn: [Alief Akbar](https://www.linkedin.com/in/alvnts/)  
-🌐 Website: [Alyx Labs](https://alivyx.netlify.app) 
+🌐 Website: [Alyx Labs](https://alyxlabs.tech)
