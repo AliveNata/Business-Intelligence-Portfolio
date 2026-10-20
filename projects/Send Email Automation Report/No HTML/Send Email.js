@@ -8,7 +8,7 @@ function createExcelWithTwoTabs() {
   var today = Utilities.formatDate(now, timeZone, 'yyyy-MM-dd HH:mm');
 
   // Create a new spreadsheet
-  var newSpreadsheet = SpreadsheetApp.create("Lancome Order Data " + today);
+  var newSpreadsheet = SpreadsheetApp.create("Sample Order Data " + today);
   
   // Get the original spreadsheet
   var originalSpreadsheet = SpreadsheetApp.getActiveSpreadsheet();
@@ -40,18 +40,18 @@ function createExcelWithTwoTabs() {
   });
   
   // Create the filename with today's date
-  var filename1 = "TH - Lancome Order Data Report " + today + ".xlsx";
+  var filename1 = "TH - Sample Order Data Report " + today + ".xlsx";
   var blob = response.getBlob().setName(filename1);
 
 
   // Send the email with the attachment and CC
   var emailAddress = ""; // Add your email addresses here
   var ccEmailAddress = ""; // Add your CC email addresses here
-  var subject = "[Auto] Lancome Order Data Automation " + today;
+  var subject = "[Auto] Sample Order Data Automation " + today;
   var body = `
 Hi,
 
-Hereby attached Lancome Order Data Automation as per your request.
+Hereby attached Sample Order Data Automation as per your request.
 
 If you find any issue, please contact your PIC directly.
 

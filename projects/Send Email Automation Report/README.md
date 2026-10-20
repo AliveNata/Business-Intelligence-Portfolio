@@ -27,3 +27,5 @@ Google Apps Script (JavaScript), Google Sheets, Gmail API, HTML email templating
 ## Files in this folder
 - `No HTML/`: on demand export and email script, plus a sample output screenshot.
 - `Using HTML/`: scheduled daily HTML report script, plus a sample output screenshot.
+
+Brand names, product names, order numbers, and prices in the sample files and screenshots are anonymized. The structure matches the original reports.
