@@ -37,7 +37,7 @@ I hope this portfolio provides a clear picture of my expertise and contributions
 - **Description:** This project aims to manage and analyze NBA player performance data for the 2023-2024 season, imported from various monthly datasets. The datasets are consolidated into a single primary source with additional information such as game dates to support time-based analysis. The analysis results can provide valuable insights for team management, such as player performance evaluation, individual statistical trends, and identifying potential areas for strategic improvement based on historical performance.
 - **Link to Project:** [NBA Player Stats Data Analysis 2023-2024](https://github.com/AliveNata/Business-Intelligence-Portfolio/tree/main/projects/NBA%20Player%20Stats%20Data%20Analysis%202023-2024)
 
-> Non BI projects (web development such as eTicketing, rental system, etc.) are listed separately on my [GitHub profile](https://github.com/AliveNata) and [website](https://alyxlabs.tech).
+> Non-BI projects (web development such as eTicketing, rental system, etc.) are listed separately on my [GitHub profile](https://github.com/AliveNata) and [website](https://alyxlabs.tech).
 
 ## How to Use
 Each project folder contains query, notebook, or dashboard files you can open directly. Per-project README files are being added gradually. For now, check the `Dashboard`/`Query` folders inside each project.
